@@ -1,5 +1,6 @@
-## 안녕하세요
+## Kangmunju
 
+Interested in AI engineering, smart factory & process automation, and software development.
 AI 엔지니어, 스마트팩토리와 공정 자동화, 개발 분야에 관심을 갖고 공부하고 있습니다.
 
 ### 대표 프로젝트
